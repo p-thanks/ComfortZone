@@ -1,17 +1,5 @@
-/**
-* Template Name: ComfortZone
-* Template URL: https://bootstrapmade.com/ComfortZone-bootstrap-real-estate-template/
-* Updated: Jul 05 2025 with Bootstrap v5.3.7
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 @charset "UTF-8";
 
-/*--------------------------------------------------------------
-# Font & Color Variables
-# Help: https://bootstrapmade.com/color-system/
---------------------------------------------------------------*/
 /* Fonts */
 :root {
   --default-font: "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
